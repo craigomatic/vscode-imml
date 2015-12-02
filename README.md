@@ -1,13 +1,3 @@
-# README
-## This is the README for your extension "imml" 
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+[![Build Status](https://travis-ci.org/craigomatic/vscode-imml.svg?branch=master)](https://travis-ci.org/craigomatic/vscode-imml)
 
-* Split the editor (`Cmd+\` on OSX or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on OSX or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (OSX) to see a list of Markdown snippets
-
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-** Enjoy!**
+An extension for Visual Studio Code that acts as a language provider for [Imml](https://github.com/craigomatic/IMML/)
